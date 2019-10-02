@@ -448,7 +448,7 @@ It has been updated with some SEO tools, idea management and partners serach mes
 - [**Assembly**](https://assembly.com/discover): Co-create new ideas no matter where they are.
 - [**CoFoundersLab**](https://www.cofounderslab.com/): Find a co-founder in any city, any industry.
 - [**Founder2be**](https://www.founder2be.com/): Find a co-founder for your startup.
-- [**PartnerUpList**](https://www.PartnerUpList.com/): Message for co-founders search
+- [**PartnerUpList**](http://www.PartnerUpList.com/): Message for co-founders search
 
 
 # Learn
