@@ -3,8 +3,7 @@ Inspired by [/u/fluffhead1](https://www.reddit.com/user/fluffhead1) on Reddit, w
 
 A curated open list of _free_ resources to help you jump start your startup today. Links are continuously being updated.
 
-If you have another additional awesome free resource, please feel free to add it by forking this repo onto your github and submitting a PR. Thanks.
-
+It has been updated with some SEO tools, idea management and partners serach message boards.
 
 # Website
 - [**HTML5 UP**](https://html5up.net/): Responsive HTML5 and CSS3 site templates.
@@ -47,6 +46,8 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Impossibility**](https://impossibility.org/): The best domain name generator ever.
 - [**Lean Domain Search**](https://www.leandomainsearch.com/): Find a domain name for your website in seconds.
 - [**Domainr**](https://domainr.com/): Fast, free, domain name search, short URLs.
+- [**Ideaz board**](https://ideaboardz.com/): Nice tool to manage ideas.
+
 
 # Writing / Blogging
 - [**Hemingway**](https://www.hemingwayapp.com/): Hemingway App makes your writing bold and clear.
@@ -110,6 +111,10 @@ If you have another additional awesome free resource, please feel free to add it
 - [**XML Sitemaps**](https://www.xml-sitemaps.com/): Sitemap generator that creates XML & HTML variants.
 - [**Shopify E-commerce Report**](https://ecommerce.shopify.com/grader): Get your free Ecommerce report.
 - [**W3C validator**](https://validator.w3.org/): Easy-to-use markup validation service.
+- [**Backlinks checker**](https://app.neilpatel.com/): Backlinks checker that works.
+- [**SiteMaps genrator**](https://www.xml-sitemaps.com/): Sitemaps generator.
+
+
 
 # Image Optimizers
 - [**TinyJPG**](https://tinyjpg.com/): | [**TinyPNG**](https://tinypng.com/):  Compress images.
@@ -443,6 +448,8 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Assembly**](https://assembly.com/discover): Co-create new ideas no matter where they are.
 - [**CoFoundersLab**](https://www.cofounderslab.com/): Find a co-founder in any city, any industry.
 - [**Founder2be**](https://www.founder2be.com/): Find a co-founder for your startup.
+- [**PartnerUpList**](https://www.PartnerUpList.com/): Message for co-founders search
+
 
 # Learn
 - [**Skillshare**](https://www.skillshare.com/): Unlock your creativity with free online classes & projects.
