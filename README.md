@@ -5,6 +5,9 @@ A curated open list of _free_ resources to help you jump start your startup toda
 
 It has been updated with some SEO tools, idea management and partners serach message boards.
 
+10/01/2019
+TODO: to update with additional resources
+
 # Website
 - [**HTML5 UP**](https://html5up.net/): Responsive HTML5 and CSS3 site templates.
 - [**Bootswatch**](https://bootswatch.com/): Free themes for Bootstrap.
