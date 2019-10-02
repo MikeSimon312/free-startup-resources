@@ -456,7 +456,7 @@ Search**](https://shortdomainsearch.com/): Find short, available single-word dom
 - [**Assembly**](https://assembly.com/discover): Co-create new ideas no matter where they are.
 - [**CoFoundersLab**](https://www.cofounderslab.com/): Find a co-founder in any city, any industry.
 - [**Founder2be**](https://www.founder2be.com/): Find a co-founder for your startup.
-- [**PartnerUpList**](http://www.PartnerUpList.com/): Message for co-founders search
+- [**PartnerUpList**](http://www.PartnerUpList.com/): Free Message board for co-founders search
 
 
 # Learn
