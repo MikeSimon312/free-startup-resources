@@ -1,9 +1,7 @@
 # Free Startup Resources
-Inspired by [/u/fluffhead1](https://www.reddit.com/user/fluffhead1) on Reddit, who found the huge list from [TNW](https://thenextweb.com/dd/2015/02/18/300-awesome-free-things-massive-list-free-resources-know/). Many thanks for the start of such an awesome list.
+This is a customized list based on original redit post. 
 
-A curated open list of _free_ resources to help you jump start your startup today. Links are continuously being updated.
-
-It has been updated with some SEO tools, idea management and partners serach message boards.
+It has been updated with some SEO tools, idea management and partners serach message boards. Some resources have been removed, including broken links
 
 10/01/2019
 TODO: to update with additional resources
@@ -16,12 +14,15 @@ TODO: to update with additional resources
 - [**Strikingly.com Domain**](https://www.strikingly.com/): Free, unlimited mobile optimized websites for strikingly domains.
 - [**Layers**](https://www.layerswp.com/): A WordPress site builder so simple. It’s free, forever.
 - [**Bootstrap Zero**](https://www.bootstrapzero.com/): The largest open-source, free Bootstrap template collection.
+- [**Picky Domains**](https://www.pickydomains.com/): This site helps fine domain names
 
 # Branding & Logo
 - [**Logaster**](https://www.logaster.com): Professional online logo maker & generator.
 - [**Hipster Logo Generator**](https://www.hipsterlogogenerator.com/): It’s Hip, It’s Current, It’s Stylish, It’s Hipster.
 - [**Squarespace Free Logo**](https://www.squarespace.com/logo/): You can download free low-res version for free.
 - [**Signature Maker**](https://signature-maker.net/): A free web based tool that creates your handwritten digital signature.
+- [**Fiverr**](http://fiverr.com/): best site to design a logo
+- [**Freelancer.com**](http://freelancer.com/): another good site to design a logo
 
 # Invoice
 - [**Invoice to me**](https://invoiceto.me/): Free Invoice Generator.
@@ -43,7 +44,8 @@ TODO: to update with additional resources
 # Business / Project Name Generator
 - [**The Name App**](https://thenameapp.com/): Find an available name for your brilliant idea.
 - [**Naminum**](https://www.naminum.com/): Discover a perfect company name.
-- [**Short Domain Search**](https://shortdomainsearch.com/): Find short, available single-word domain names.
+- [**Short 
+Search**](https://shortdomainsearch.com/): Find short, available single-word domain names.
 - [**Wordoid**](https://wordoid.com/): Pick a short and catchy name for your business.
 - [**Hipster Business Name**](https://www.hipsterbusiness.name/): Hipster business name generator.
 - [**Impossibility**](https://impossibility.org/): The best domain name generator ever.
@@ -98,7 +100,7 @@ TODO: to update with additional resources
 - [**OpenLinkProfiler**](https://openlinkprofiler.org/): The freshest backlinks, for free.
 - [**Keywordtool.io**](https://keywordtool.io/): Free alternative to Google Keyword Planner.
 - **Google**
-  - [**Analytics**](https://www.google.com/analytics/)
+  - [**Analytics**](https://www.google.com/analytics/) Google analytics is too complicated
   - [**Keyword Planner**](https://adwords.google.com/keywordplanner)
   - [**Webmaster Tools**](https://www.google.com/webmasters/tools/home?hl=en)
   - [**Trends**](https://www.google.com/trends/)
@@ -200,6 +202,7 @@ TODO: to update with additional resources
 - Free Survey Creator: Create a survey. Get user feedback for free.
 - Batch: The first-ever 100% free engagement platform for mobile apps.
 - Helprace: Customer service tool. Free for up to 3 agents for small support teams.
+- Survery Monkey
 
 # A/B Tests & Growth Hacking
 - [**Petit Hacks**](https://petithacks.com/): Acquisition, retention, & revenue hacks used by companies.
@@ -389,6 +392,7 @@ TODO: to update with additional resources
 - Peek: Get a free, 5-minute video of someone using your site.Creator: Build better Ionic apps, faster.
 - DevFreeCasts: A huge collection of free screencasts for developers.
 - Cody: A free library of HTML, CSS, JS nuggets.
+- GitLab: alternative to GitHub
 
 # Background Sounds to Focus
 - [**Noisli**](https://www.noisli.com/): Background noise & color generator.
@@ -428,6 +432,7 @@ TODO: to update with additional resources
 - Any.do: Get things done with your team.
 - Asana: Teamwork without email.
 - GoToMeeting: Online meetings without the hassle.
+- Monday.com: schedule management
 
 # Digital Nomads and Remote Working
 - [**Founded X Startup Stats**](https://www.foundedx.com/stats): Find the best country to build your startup in.
