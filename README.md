@@ -1,4 +1,4 @@
-# Free Resources for enrepreneurs
+# Free Resources for entrepreneurs, small businesses and startups
 This is a customized list based on original redit post. 
 
 It has been updated with some SEO tools, idea management and partners serach message boards. Some resources have been removed, including broken links
